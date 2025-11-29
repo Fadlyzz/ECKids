@@ -22,9 +22,9 @@
         </nav>
 
         
-        <a href="#" class="hidden md:block bg-brand-orange bg-gradient-to-r from-brand-orange to-brand-terra hover:bg-brand-terra text-white px-6 py-2 rounded-full font-bold shadow-md transition transform hover:scale-105">
-            Konsultasi
-        </a>
+        <!-- <a href="#" class="hidden md:block bg-brand-orange bg-gradient-to-r from-brand-orange to-brand-terra hover:bg-brand-terra text-white px-6 py-2 rounded-full font-bold shadow-md transition transform hover:scale-105">
+            AKUN
+        </a> -->
 
         
         <button id="mobile-menu-button" class="md:hidden text-brand-brown focus:outline-none text-2xl">
