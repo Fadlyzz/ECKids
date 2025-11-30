@@ -42,9 +42,9 @@
             <li><a href="#package-section" class="block py-2 hover:text-brand-orange transition">Paket</a></li>
             
             <li>
-                <a href="#" class="block w-full text-center bg-brand-orange hover:bg-brand-terra text-white px-6 py-2 mt-4 rounded-full font-bold transition">
+                <!-- <a href="#" class="block w-full text-center bg-brand-orange hover:bg-brand-terra text-white px-6 py-2 mt-4 rounded-full font-bold transition">
                     Konsultasi
-                </a>
+                </a> -->
             </li>
         </ul>
     </nav>
@@ -62,11 +62,6 @@
             <p class="text-lg text-gray-500 mb-8 leading-relaxed">
                 Bergabunglah dengan English Cafe Kids. Metode belajar interaktif yang membuat anak percaya diri berbicara bahasa Inggris sejak dini.
             </p>
-            <div class="flex gap-4">
-                <button class="bg-brand-red bg-gradient-to-r from-brand-red to-brand-terra text-white px-8 py-3 rounded-xl font-extrabold shadow-2xl shadow-brand-red/50 hover:shadow-brand-brown/50 transition transform hover:scale-105">
-                    Mulai Belajar
-                </button>
-            </div>
         </div>
         <div class="relative flex justify-center items-center">
             <div class="absolute -top-10 -right-10 w-90 h-128 bg-brand-orange opacity-20 rounded-full blur-3xl"></div>

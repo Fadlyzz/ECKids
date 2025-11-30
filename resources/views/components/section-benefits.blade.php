@@ -29,7 +29,7 @@
         <div class="w-full py-10">
             <div class="container mx-auto px-6 text-center max-w-2xl">
                 <h2 class="text-3xl md:text-4xl font-bold text-brand-brown">
-                    Nilai Inti Kami
+                    Manfaat
                 </h2>
             </div>
         </div>
@@ -73,22 +73,16 @@
                         'title' => 'Waktu dan Tempat Fleksibel', 
                         'desc' => 'Dimanapun dan kapanpun, English Cafe siap mendampingi sampai kamu bisa'
                     ],
-                      
-                    // 4. GARANSI SKOR TOEFL 500 (Logo Check Circle/Verified)
-                    [
-                        'icon_svg' => '<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>', 
-                        'title' => 'Garansi Skor TOEFL 500', 
-                        'desc' => 'Jika tidak mencapai skor 500 maka bisa ikut kelas lagi gratis'
-                    ],
+                    
 
-                    // 5. DAFTAR 2 GRATIS 1 (Logo Users/Friends)
+                    // 4. DAFTAR 2 GRATIS 1 (Logo Users/Friends)
                     [
                         'icon_svg' => '<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M22 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>', 
                         'title' => 'Daftar 2 Gratis 1', 
                         'desc' => 'Ajak temanmu agar makin hemat sekaligus bisa latihan bareng'
                     ],
 
-                    // 6. MODUL & E-SERTIFIKAT (Logo Book Open)
+                    // 5. MODUL & E-SERTIFIKAT (Logo Book Open)
                     [
                         'icon_svg' => '<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>', 
                         'title' => 'Gratis Modul & E-Sertifikat', 

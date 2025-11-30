@@ -3,7 +3,9 @@
 
         {{-- Brand Logo & Description --}}
         <div>
-            <img src="images/Logo2.png" alt="English Cafe" class="h-16 mb-4">
+            <a href="https://englishcafeindonesia.net/" target="_blank">
+    <img src="images/Logo2.png" alt="English Cafe" class="h-16 mb-4 cursor-pointer hover:scale-105 transition-transform">
+</a>
             <p class="text-sm leading-relaxed">
                 Tempat kursus bahasa Inggris di Jogja dengan konsep cafe pertama di Indonesia.
             </p>
@@ -24,7 +26,7 @@
 
         {{-- Useful Links --}}
         <div>
-            <h4 class="text-lg font-semibold mb-4">Tautan Berguna</h4>
+            <h4 class="text-lg font-semibold mb-4">Tautan</h4>
             <ul class="space-y-2 text-sm">
                 <li><a href="#home-section" class="hover:text-brand-orange transition">Tentang Kami</a></li>
                 <li><a href="#features-section" class="hover:text-brand-orange transition">Fitur</a></li>
@@ -42,7 +44,7 @@
                 <li><a href="https://api.whatsapp.com/send/?phone=6285183159961&text=Halo%2C+kak.+Saya+mau+daftar+kursus+di+English+Cafe&type=phone_number&app_absent=0" class="hover:text-brand-orange transition">Hubungi Kami</a></li>
                 <li><a href="https://api.whatsapp.com/send/?phone=6285183159961&text=Halo%2C+kak.+Saya+mau+daftar+kursus+di+English+Cafe&type=phone_number&app_absent=0" class="hover:text-brand-orange transition">FAQ</a></li>
                 <li><a href="https://api.whatsapp.com/send/?phone=6285183159961&text=Halo%2C+kak.+Saya+mau+daftar+kursus+di+English+Cafe&type=phone_number&app_absent=0" class="hover:text-brand-orange transition">Pembayaran</a></li>
-                <li><a href="#" class="hover:text-brand-orange transition">Komunitas</a></li>
+                <li><a href="https://englishcafeindonesia.net" class="hover:text-brand-orange transition">English Cafe</a></li>
             </ul>
         </div>
 
@@ -56,7 +58,7 @@
                 {{-- Location --}}
                 <li class="flex gap-3">
                     <img src="/images/location.svg" alt="Location" class="h-5 opacity-90">
-                    <a href="https://www.google.com/maps/place/English+Cafe/@-7.7964291,110.3897982,17z/data=!4m6!3m5!1s0x2e7a59c300000001:0xeb42f7a0593f6047!8m2!3d-7.7964335!4d110.3923915!16s%2Fg%2F12hn2n6m_?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D">
+                    <a href="https://www.google.com/maps/place/English+Cafe/@-7.7964291,110.3897982,17z/data=!4m6!3m5!1s0x2e7a59c300000001:0xeb42f7a0593f6047!8m2!3d-7.7964335!4d110.3923915!16s%2Fg%2F12hn2n6m_?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D" class="hover:text-brand-orange transition">
                         Alive Fusion Dining, Muja Muju, Umbulharjo, Yogyakarta.
                     </a>
                 </li>
@@ -83,6 +85,6 @@
 
     {{-- Footer Bottom --}}
     <div class="mt-10 border-t border-white/20 pt-5 text-center text-xs opacity-80">
-        © 2025 English Cafe Kids — Semua Hak Dilindungi.
+        © 2025 <a href="https://github.com/Fadlyzz" target="_blank">Fadlyzz</a> — Semua Hak Dilindungi.
     </div>
 </footer>

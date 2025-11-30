@@ -20,20 +20,20 @@
             </div>
             <div class="bg-white p-6 rounded-xl shadow-md flex items-start gap-4">
                 <div class="w-12 h-12 bg-brand-terra text-white rounded-lg flex items-center justify-center text-xl flex-shrink-0">
-                    <i class="fas fa-music"></i>
+                    <i class="fas fa-gamepad"></i>
                 </div>
                 <div>
-                    <h4 class="font-bold text-lg mb-2 text-brand-brown">Lagu & Sajak</h4>
-                    <p class="text-gray-500 text-sm">Belajar kosakata baru melalui lagu ceria.</p>
+                    <h4 class="font-bold text-lg mb-2 text-brand-brown">Game</h4>
+                    <p class="text-gray-500 text-sm">Belajar kosakata baru melalui permainan.</p>
                 </div>
             </div>
             <div class="bg-white p-6 rounded-xl shadow-md flex items-start gap-4">
                 <div class="w-12 h-12 bg-brand-red text-white rounded-lg flex items-center justify-center text-xl flex-shrink-0">
-                    <i class="fas fa-video"></i>
+                    <i class="fas fa-comment"></i>
                 </div>
                 <div>
-                    <h4 class="font-bold text-lg mb-2 text-brand-brown">Pembelajaran Visual</h4>
-                    <p class="text-gray-500 text-sm">Video animasi untuk mempermudah pemahaman.</p>
+                    <h4 class="font-bold text-lg mb-2 text-brand-brown">Daily talk</h4>
+                    <p class="text-gray-500 text-sm">melakukan obrolan langsung untuk meningkatkan speaking skill.</p>
                 </div>
             </div>
             <div class="bg-white p-6 rounded-xl shadow-md flex items-start gap-4">
