@@ -309,10 +309,5 @@
         </svg>
     </button>
 </div>
-
-
-
-
 </body>
-
 </html>

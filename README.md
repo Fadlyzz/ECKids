@@ -7,53 +7,111 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+☕ English Cafe Kids Landing Page
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+🚀 Deskripsi Proyek
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Proyek ini adalah Landing Page modern yang dibangun menggunakan framework Laravel dan Blade, dengan styling yang sepenuhnya berbasis Tailwind CSS. Tujuan utamanya adalah menampilkan fitur-fitur, program, dan manfaat dari English Cafe Kids dengan desain yang responsif dan menarik.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Aplikasi ini menggunakan struktur Blade Layout (layouts/app.blade.php) dan Component (seperti section-hero.blade.php) untuk pemisahan tampilan yang optimal, memastikan kode bersih dan mudah dikelola.
 
-## Learning Laravel
+🛠️ Persyaratan Sistem
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+Untuk menjalankan proyek ini secara lokal, Anda memerlukan:
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+PHP >= 8.1
 
-## Laravel Sponsors
+Composer
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Node.js (Untuk kompilasi aset jika menggunakan Vite/Mix, meskipun pada project ini Tailwind dimuat via CDN)
 
-### Premium Partners
+⚙️ Panduan Instalasi (Setup Lokal)
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+Ikuti langkah-langkah berikut untuk menginisialisasi dan menjalankan proyek:
 
-## Contributing
+1. Kloning Repositori
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+git clone [https://github.com/NAMA_AKUN_ANDA/NAMA_REPO.git](https://github.com/NAMA_AKUN_ANDA/NAMA_REPO.git)
+cd NAMA_REPO
 
-## Code of Conduct
+2. Instalasi Dependensi
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Instal dependensi PHP menggunakan Composer:
 
-## Security Vulnerabilities
+composer install
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+3. Konfigurasi Lingkungan
 
-## License
+Buat file .env dengan menyalin file contoh yang ada:
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+cp .env.example .env
+
+Kemudian, buat kunci aplikasi:
+
+php artisan key:generate
+
+4. Menjalankan Aplikasi
+
+Jalankan server pengembangan Laravel:
+
+php artisan serve
+
+Aplikasi kini dapat diakses di http://127.0.0.1:8000.
+
+✨ Fitur Utama
+
+Berdasarkan struktur file yang ada, landing page ini mencakup:
+
+Hero Section (section-hero): Tampilan utama yang menarik dengan ajakan bertindak (CTA).
+
+Features Section (section-features): Menjelaskan metodologi pengajaran dan keunggulan.
+
+Benefits Section: Menampilkan daftar manfaat yang didapatkan oleh siswa.
+
+Program Section (section-program): Detail tentang aktivitas dan metode belajar interaktif.
+
+Struktur Layout Master: Menggunakan resources/views/layouts/app.blade.php sebagai kerangka utama untuk konsistensi Header dan Footer.
+
+📦 Teknologi yang Digunakan
+
+Framework: Laravel
+
+Templating: Blade
+
+Styling: Tailwind CSS (via CDN untuk kemudahan pengembangan)
+
+Assets: Font Awesome (untuk ikon)
+
+📚 Informasi Tambahan (Belajar Laravel)
+
+Jika Anda tertarik untuk mempelajari lebih dalam tentang Laravel, sumber daya berikut sangat direkomendasikan:
+
+Dokumentasi Laravel
+
+Laravel Learn
+
+Laracasts (Tutorial video komprehensif)
+
+🤝 Kontribusi
+
+Kami menghargai setiap bentuk kontribusi, baik itu laporan bug, saran fitur, atau pull request kode baru.
+
+Fork repositori ini.
+
+Buat branch baru: git checkout -b feature/nama-fitur-baru.
+
+Lakukan perubahan dan commit: git commit -m 'feat: menambahkan fitur baru X'.
+
+Push ke branch Anda: git push origin feature/nama-fitur-baru.
+
+Buka Pull Request baru.
+
+Pastikan Anda mematuhi Code of Conduct dari Laravel.
+
+🛡️ Keamanan
+
+Jika Anda menemukan kerentanan keamanan dalam proyek ini, silakan kirim e-mail ke Taylor Otwell via taylor@laravel.com. Semua kerentanan keamanan akan ditangani dengan segera.
+
+📜 Lisensi
+
+Framework Laravel adalah software sumber terbuka yang dilisensikan di bawah Lisensi MIT.
