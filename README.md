@@ -1,118 +1,54 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>English Cafe Kids ☕</title>
-    <style>
-        body {
-            font-family: 'Comic Sans MS', cursive, sans-serif;
-            background-color: #fff8dc;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #ffcc80;
-            padding: 2rem;
-            text-align: center;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        header h1 {
-            margin: 0;
-            font-size: 2.5rem;
-        }
-        header p {
-            font-size: 1.2rem;
-        }
-        main {
-            padding: 2rem;
-            max-width: 800px;
-            margin: auto;
-        }
-        section {
-            margin-bottom: 2rem;
-        }
-        h2 {
-            color: #ff7043;
-        }
-        ul {
-            list-style: square;
-            padding-left: 1.5rem;
-        }
-        footer {
-            text-align: center;
-            padding: 1.5rem;
-            background-color: #ffe0b2;
-        }
-        .badge {
-            display: inline-block;
-            padding: 0.3rem 0.6rem;
-            margin: 0.2rem;
-            background-color: #ffab91;
-            color: white;
-            border-radius: 0.5rem;
-            font-size: 0.9rem;
-        }
-    </style>
-</head>
-<body>
+# ~ 💖 Welcome to My Profile 💖 ~
 
-<header>
-    <h1>☕ English Cafe Kids</h1>
-    <p>Belajar Bahasa Inggris dengan cara seru, interaktif, dan penuh kreativitas!</p>
-</header>
+<center>
+<a href="https://egirl.ing/">
+  <img src="https://lanyard.kyrie25.dev/api/202740603790819328?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&showBanner=animated&bannerFilter=blur(2px)%20brightness(0.8)&waveColor=transparent&gradient=7E37F9-B48EF7-E568C4&waveSpotifyColor=transparent&borderRadius=20px&hideStatus=true" />
+</a>
 
-<main>
-    <section>
-        <h2>🎯 Tentang Proyek Ini</h2>
-        <p>English Cafe Kids dirancang untuk membantu anak-anak belajar Bahasa Inggris dengan menyenangkan:</p>
-        <ul>
-            <li>Mengajarkan kosakata dan frase dengan cara seru</li>
-            <li>Menciptakan suasana nyaman seperti berada di café</li>
-            <li>Menggabungkan permainan, cerita, dan aktivitas kreatif</li>
-        </ul>
-    </section>
+<p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
+<p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
+<p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
+<p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>
+<p><a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">- 𝒯𝐸𝒦𝒦𝒩𝒪 𝒯𝑅𝒜𝐼𝒩 - 𝐸𝓁𝑒𝒸𝓉𝓇𝒾𝒸 𝒞𝒶𝓁𝓁𝒷𝑜𝓎</a></p>
+</center>
 
-    <section>
-        <h2>🛠 Fitur Utama</h2>
-        <ul>
-            <li>☕ <strong>Interactive Lessons</strong> – Pelajaran interaktif dengan gambar dan suara</li>
-            <li>🎨 <strong>Fun Activities</strong> – Menggambar, menyanyi, dan bermain game edukatif</li>
-            <li>📚 <strong>Story Time</strong> – Cerita bahasa Inggris mudah dipahami</li>
-            <li>🏆 <strong>Rewards & Badges</strong> – Badge untuk setiap pencapaian</li>
-        </ul>
-    </section>
+---
 
-    <section>
-        <h2>🚀 Cara Menggunakan</h2>
-        <ol>
-            <li>Clone repositori ini: <code>git clone https://github.com/username/english-cafe-kids.git</code></li>
-            <li>Masuk ke direktori proyek: <code>cd english-cafe-kids</code></li>
-            <li>Jalankan aplikasi: <code>npm install & npm start</code> (jika menggunakan Node.js)</li>
-            <li>Mulai belajar dengan seru! 🎉</li>
-        </ol>
-    </section>
+## 🦊 About Me 🦊
 
-    <section>
-        <h2>🤝 Kontribusi</h2>
-        <p>Kami terbuka untuk kontribusi kreatif! Ide aktivitas, cerita, atau game baru bisa diajukan via pull request.</p>
-    </section>
+<center>
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right" width="200"/>
+</center>
 
-    <section>
-        <h2>📫 Kontak</h2>
-        <p>Email: <strong>englishcafekids@example.com</strong></p>
-        <p>Twitter: <a href="https://twitter.com/EnglishCafeKids" target="_blank">@EnglishCafeKids</a></p>
-    </section>
+- **Name:** Miella Selene  
+- **Loves:** anime, osu, rhythm games  
+- **Gender:** she/her/Female  
+- **LastFM:** [scrobble.egirl.ing](https://scrobble.egirl.ing)  
+- **Hobbies:** Dev Ops, Writer, Sysadmin  
 
-</main>
+---
 
-<footer>
-    <p>🌈 Mari belajar Bahasa Inggris dengan fun! ☕✨</p>
-    <span class="badge">HTML</span>
-    <span class="badge">CSS</span>
-    <span class="badge">Kids Learning</span>
-</footer>
+## 📇 Knowledge 📇
 
-</body>
-</html>
+<center>
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" width="200"/>
+</center>
+
+<p align="center">
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+There are many more things, but this site doesn't have a Linux badge, so this will do for the meantime.
+
+---
+
+## 💖 Thanks for Reading! 💖
+
+<center>
+<img src="https://i.imgur.com/tzYKRfd.gif" width="300"/>
+</center>
