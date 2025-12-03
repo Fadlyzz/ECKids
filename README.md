@@ -1,117 +1,118 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Cafe Kids ☕</title>
+    <style>
+        body {
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            background-color: #fff8dc;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffcc80;
+            padding: 2rem;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        header p {
+            font-size: 1.2rem;
+        }
+        main {
+            padding: 2rem;
+            max-width: 800px;
+            margin: auto;
+        }
+        section {
+            margin-bottom: 2rem;
+        }
+        h2 {
+            color: #ff7043;
+        }
+        ul {
+            list-style: square;
+            padding-left: 1.5rem;
+        }
+        footer {
+            text-align: center;
+            padding: 1.5rem;
+            background-color: #ffe0b2;
+        }
+        .badge {
+            display: inline-block;
+            padding: 0.3rem 0.6rem;
+            margin: 0.2rem;
+            background-color: #ffab91;
+            color: white;
+            border-radius: 0.5rem;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<header>
+    <h1>☕ English Cafe Kids</h1>
+    <p>Belajar Bahasa Inggris dengan cara seru, interaktif, dan penuh kreativitas!</p>
+</header>
 
-☕ English Cafe Kids Landing Page
+<main>
+    <section>
+        <h2>🎯 Tentang Proyek Ini</h2>
+        <p>English Cafe Kids dirancang untuk membantu anak-anak belajar Bahasa Inggris dengan menyenangkan:</p>
+        <ul>
+            <li>Mengajarkan kosakata dan frase dengan cara seru</li>
+            <li>Menciptakan suasana nyaman seperti berada di café</li>
+            <li>Menggabungkan permainan, cerita, dan aktivitas kreatif</li>
+        </ul>
+    </section>
 
-🚀 Deskripsi Proyek
+    <section>
+        <h2>🛠 Fitur Utama</h2>
+        <ul>
+            <li>☕ <strong>Interactive Lessons</strong> – Pelajaran interaktif dengan gambar dan suara</li>
+            <li>🎨 <strong>Fun Activities</strong> – Menggambar, menyanyi, dan bermain game edukatif</li>
+            <li>📚 <strong>Story Time</strong> – Cerita bahasa Inggris mudah dipahami</li>
+            <li>🏆 <strong>Rewards & Badges</strong> – Badge untuk setiap pencapaian</li>
+        </ul>
+    </section>
 
-Proyek ini adalah Landing Page modern yang dibangun menggunakan framework Laravel dan Blade, dengan styling yang sepenuhnya berbasis Tailwind CSS. Tujuan utamanya adalah menampilkan fitur-fitur, program, dan manfaat dari English Cafe Kids dengan desain yang responsif dan menarik.
+    <section>
+        <h2>🚀 Cara Menggunakan</h2>
+        <ol>
+            <li>Clone repositori ini: <code>git clone https://github.com/username/english-cafe-kids.git</code></li>
+            <li>Masuk ke direktori proyek: <code>cd english-cafe-kids</code></li>
+            <li>Jalankan aplikasi: <code>npm install & npm start</code> (jika menggunakan Node.js)</li>
+            <li>Mulai belajar dengan seru! 🎉</li>
+        </ol>
+    </section>
 
-Aplikasi ini menggunakan struktur Blade Layout (layouts/app.blade.php) dan Component (seperti section-hero.blade.php) untuk pemisahan tampilan yang optimal, memastikan kode bersih dan mudah dikelola.
+    <section>
+        <h2>🤝 Kontribusi</h2>
+        <p>Kami terbuka untuk kontribusi kreatif! Ide aktivitas, cerita, atau game baru bisa diajukan via pull request.</p>
+    </section>
 
-🛠️ Persyaratan Sistem
+    <section>
+        <h2>📫 Kontak</h2>
+        <p>Email: <strong>englishcafekids@example.com</strong></p>
+        <p>Twitter: <a href="https://twitter.com/EnglishCafeKids" target="_blank">@EnglishCafeKids</a></p>
+    </section>
 
-Untuk menjalankan proyek ini secara lokal, Anda memerlukan:
+</main>
 
-PHP >= 8.1
+<footer>
+    <p>🌈 Mari belajar Bahasa Inggris dengan fun! ☕✨</p>
+    <span class="badge">HTML</span>
+    <span class="badge">CSS</span>
+    <span class="badge">Kids Learning</span>
+</footer>
 
-Composer
-
-Node.js (Untuk kompilasi aset jika menggunakan Vite/Mix, meskipun pada project ini Tailwind dimuat via CDN)
-
-⚙️ Panduan Instalasi (Setup Lokal)
-
-Ikuti langkah-langkah berikut untuk menginisialisasi dan menjalankan proyek:
-
-1. Kloning Repositori
-
-git clone [https://github.com/NAMA_AKUN_ANDA/NAMA_REPO.git](https://github.com/NAMA_AKUN_ANDA/NAMA_REPO.git)
-cd NAMA_REPO
-
-2. Instalasi Dependensi
-
-Instal dependensi PHP menggunakan Composer:
-
-composer install
-
-3. Konfigurasi Lingkungan
-
-Buat file .env dengan menyalin file contoh yang ada:
-
-cp .env.example .env
-
-Kemudian, buat kunci aplikasi:
-
-php artisan key:generate
-
-4. Menjalankan Aplikasi
-
-Jalankan server pengembangan Laravel:
-
-php artisan serve
-
-Aplikasi kini dapat diakses di http://127.0.0.1:8000.
-
-✨ Fitur Utama
-
-Berdasarkan struktur file yang ada, landing page ini mencakup:
-
-Hero Section (section-hero): Tampilan utama yang menarik dengan ajakan bertindak (CTA).
-
-Features Section (section-features): Menjelaskan metodologi pengajaran dan keunggulan.
-
-Benefits Section: Menampilkan daftar manfaat yang didapatkan oleh siswa.
-
-Program Section (section-program): Detail tentang aktivitas dan metode belajar interaktif.
-
-Struktur Layout Master: Menggunakan resources/views/layouts/app.blade.php sebagai kerangka utama untuk konsistensi Header dan Footer.
-
-📦 Teknologi yang Digunakan
-
-Framework: Laravel
-
-Templating: Blade
-
-Styling: Tailwind CSS (via CDN untuk kemudahan pengembangan)
-
-Assets: Font Awesome (untuk ikon)
-
-📚 Informasi Tambahan (Belajar Laravel)
-
-Jika Anda tertarik untuk mempelajari lebih dalam tentang Laravel, sumber daya berikut sangat direkomendasikan:
-
-Dokumentasi Laravel
-
-Laravel Learn
-
-Laracasts (Tutorial video komprehensif)
-
-🤝 Kontribusi
-
-Kami menghargai setiap bentuk kontribusi, baik itu laporan bug, saran fitur, atau pull request kode baru.
-
-Fork repositori ini.
-
-Buat branch baru: git checkout -b feature/nama-fitur-baru.
-
-Lakukan perubahan dan commit: git commit -m 'feat: menambahkan fitur baru X'.
-
-Push ke branch Anda: git push origin feature/nama-fitur-baru.
-
-Buka Pull Request baru.
-
-Pastikan Anda mematuhi Code of Conduct dari Laravel.
-
-🛡️ Keamanan
-
-Jika Anda menemukan kerentanan keamanan dalam proyek ini, silakan kirim e-mail ke Taylor Otwell via taylor@laravel.com. Semua kerentanan keamanan akan ditangani dengan segera.
-
-📜 Lisensi
-
-Framework Laravel adalah software sumber terbuka yang dilisensikan di bawah Lisensi MIT.
+</body>
+</html>
