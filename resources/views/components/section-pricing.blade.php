@@ -25,16 +25,22 @@
                                         tabindex="0">
 
                 <!-- Kartu 1: Regular -->
-                <div class="pricing-card snap-center flex-shrink-0 w-11/12 md:w-1/3 p-10 rounded-2xl shadow-lg transition text-center inline-block bg-white">
-                    <h3 class="text-xl font-bold mb-3 text-brand-brown">Regular</h3>
-                    <div class="text-3xl font-extrabold text-brand-orange mb-4">Rp 599.999,-</div>
+                <div class="pricing-card snap-center flex-shrink-0 w-11/12 md:w-1/3 p-10 rounded-2xl shadow-[0_20px_50px_-10px_rgba(237,51,56,0.3)]
+                            relative z-10 text-center inline-block bg-white border-4 border-brand-terra">
+                    <h3 class="text-xl font-bold mb-3">
+                        <span class="px-3 py-1 bg-brand-terra text-white inline-block rounded-full">Regular
+                        </span>
+                    </h3>
+                    <div class="text-3xl font-extrabold text-brand-terra mb-1">Rp 599.999</div>
+                    <div class="text-l font-extrabold text-brand-terra mb-1">s/d</div>
+                    <div class="text-3xl font-extrabold text-brand-terra mb-4">Rp 899.999</div>
                     <ul class="space-y-3 text-sm text-gray-600 mb-4 flex-1">
-                        <li>20x pertemuan</li>
-                        <li>10-15 orang</li>
-                        <li>90 menit/pertemuan</li>
-                        <li>Jadwal kelas ditentukan bersama</li>
-                        <li>Lokasi Kelas di English Cafe</li>
-                        <li class="font-bold">gratis mengulang</li>
+                        <li><span class="text-green-600 font-bold">✔</span> 20x pertemuan</li>
+                        <li><span class="text-green-600 font-bold">✔</span> 10-15 orang</li>
+                        <li><span class="text-green-600 font-bold">✔</span> 90 menit/pertemuan</li>
+                        <li><span class="text-green-600 font-bold">✔</span> Jadwal kelas ditentukan bersama</li>
+                        <li><span class="text-green-600 font-bold">✔</span> Lokasi Kelas di English Cafe</li>
+                        <li class="font-bold"><span class="text-green-600 font-bold">✔</span> Gratis mengulang</li>
                     </ul>
                     <button onclick="window.open('https://api.whatsapp.com/send/?phone=6285183159961&text=Saya%20ingin%20paket%20Regular', '_blank')"
                         class="w-full border-2 border-brand-terra text-brand-terra font-bold py-3 rounded-lg hover:bg-brand-terra hover:text-white transition">
@@ -48,35 +54,44 @@
                     <div class="absolute top-0 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-20">
                         <span class="bg-brand-red text-white text-xs font-bold px-3 py-1 rounded-full uppercase inline-block">Populer</span>
                     </div>
-                    <h3 class="text-xl font-bold text-brand-brown mb-3 mt-4">Private</h3>
-                    <div class="text-3xl font-extrabold text-brand-red mb-4">Rp 1.099.999,-</div>
+                    <h3 class="text-xl font-bold mb-3">
+                        <span class="px-3 py-1 bg-brand-red text-white inline-block rounded-full">Private
+                        </span>
+                    </h3>
+                    <div class="text-3xl font-extrabold text-brand-red mb-1">Rp 1.099.999</div>
+                    <div class="text-l font-extrabold text-brand-red mb-1">s/d</div>
+                    <div class="text-3xl font-extrabold text-brand-red mb-4">Rp 1.399.000</div>
                     <ul class="space-y-3 text-sm text-gray-600 mb-4 flex-1">
-                        <li>20x pertemuan</li>
-                        <li>1 orang</li>
-                        <li>90 menit/pertemuan</li>
-                        <li class="font-bold">Free Vocab, Modul, dan Sertifikat</li>
-                        <li class="font-bold text-brand-red">daftar 2 gratis 1 & daftar 3 gratis 2</li>
+                        <li><span class="text-green-600 font-bold">✔</span> 20x Pertemuan</li>
+                        <li><span class="text-green-600 font-bold">✔</span> 1 Orang</li>
+                        <li><span class="text-green-600 font-bold">✔</span> 90 Menit/Pertemuan</li>
+                        <li class="font-bold"><span class="text-green-600 font-bold">✔</span> Free Vocab, Modul, dan Sertifikat</li>
+                        <li class="font-bold text-brand-red"><span class="text-green-600 font-bold">✔</span> Daftar 2 gratis 1 & daftar 3 gratis 2</li>
                     </ul>
                     <button onclick="window.open('https://api.whatsapp.com/send/?phone=6285183159961&text=Saya%20ingin%20paket%20Private', '_blank')"
-                        class="w-full border-2 border-brand-terra text-brand-terra font-bold py-3 rounded-lg hover:bg-brand-terra hover:text-white transition">
+                        class="w-full border-2 border-brand-red text-brand-red font-bold py-3 rounded-lg hover:bg-brand-red hover:text-white transition">
                         Pilih Paket
                     </button>
                 </div>
 
                 <!-- Kartu 3: Full House -->
-                <div class="pricing-card snap-center flex-shrink-0 w-11/12 md:w-1/3 p-10 rounded-2xl shadow-lg transition text-center inline-block bg-white">
-                    <h3 class="text-xl font-bold mb-3 text-brand-brown">Full House</h3>
-                    <div class="text-3xl font-extrabold text-brand-terra mb-4">Rp 2.499.999,-</div>
+                <div class="pricing-card snap-center flex-shrink-0 w-11/12 md:w-1/3 p-10 rounded-2xl shadow-[0_20px_50px_-10px_rgba(237,51,56,0.3)]
+                            relative z-10 text-center inline-block bg-white border-4 border-brand-orange">
+                    <h3 class="text-xl font-bold mb-3">
+                        <span class="px-3 py-1 bg-brand-orange text-white inline-block rounded-full">Full House
+                        </span>
+                    </h3>
+                    <div class="text-3xl font-extrabold text-brand-orange mb-4">Rp 2.499.999</div>
                     <ul class="space-y-3 text-sm text-gray-600 mb-4 flex-1">
-                        <li>20x pertemuan</li>
-                        <li>Jadwal Fleksibel</li>
-                        <li>Kelas full di rumah</li>
-                        <li>1 orang 1 tutor</li>
-                        <li>Request materi</li>
-                        <li class="font-bold">Free Modul dan Sertifikat</li>
+                        <li><span class="text-green-600 font-bold">✔</span> 20x pertemuan</li>
+                        <li><span class="text-green-600 font-bold">✔</span> Jadwal Fleksibel</li>
+                        <li><span class="text-green-600 font-bold">✔</span> Kelas full di rumah</li>
+                        <li><span class="text-green-600 font-bold">✔</span> 1 orang 1 tutor</li>
+                        <li><span class="text-green-600 font-bold">✔</span> Request materi</li>
+                        <li class="font-bold"><span class="text-green-600 font-bold">✔</span> Free Modul dan Sertifikat</li>
                     </ul>
                     <button onclick="window.open('https://api.whatsapp.com/send/?phone=6285183159961&text=Saya%20ingin%20paket%20FullHouse', '_blank')"
-                        class="w-full border-2 border-brand-terra text-brand-terra font-bold py-3 rounded-lg hover:bg-brand-terra hover:text-white transition">
+                        class="w-full border-2 border-brand-orange text-brand-orange font-bold py-3 rounded-lg hover:bg-brand-orange hover:text-white transition">
                         Pilih Paket
                     </button>
                 </div>
@@ -157,8 +172,6 @@ document.addEventListener('DOMContentLoaded', () => {
         const newIndex = (currentIndex + 1) % totalCards;
         scrollToCard(newIndex);
     });
-
-    // Inisialisasi awal: Private tetap di tengah
     scrollToCard(1);
 });
 </script>

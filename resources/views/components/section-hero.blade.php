@@ -24,7 +24,7 @@
         <a href="#features-section" class="nav-item-modern">Fitur</a>
         <a href="#benefit-section" class="nav-item-modern">Manfaat</a>
         <a href="#program-section" class="nav-item-modern">Program</a>
-        <a href="#package-section" class="nav-item-modern">Paket</a>
+        <a href="#pricing-section" class="nav-item-modern">Paket</a>
     </nav>
 
     <!-- Tombol menu mobile -->
@@ -40,7 +40,7 @@
             <li><a href="#features-section" class="mobile-link">Fitur</a></li>
             <li><a href="#benefit-section" class="mobile-link">Manfaat</a></li>
             <li><a href="#program-section" class="mobile-link">Program</a></li>
-            <li><a href="#package-section" class="mobile-link">Paket</a></li>
+            <li><a href="#pricing-section" class="mobile-link">Paket</a></li>
         </ul>
     </nav>
 </header>
@@ -88,7 +88,7 @@
                 <span class="text-brand-orange">Mudah!</span>
             </h1>
 
-            <p class="text-lg text-gray-500 mb-8 leading-relaxed">
+            <p class="text-lg text-gray-600 mb-8 leading-relaxed">
                 Bergabunglah dengan English Cafe Kids. Metode belajar interaktif yang membuat anak percaya diri berbicara bahasa Inggris sejak dini.
             </p>
 
