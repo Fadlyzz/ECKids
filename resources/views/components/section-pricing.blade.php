@@ -31,11 +31,7 @@
                         <span class="px-3 py-1 bg-brand-terra text-white inline-block rounded-full">Regular
                         </span>
                     </h3>
-                    <div class="text-3xl font-extrabold text-brand-terra mb-1">Rp 599.999</div>
-                    <div class="text-l font-extrabold text-brand-terra mb-1">s/d</div>
-                    <div class="text-3xl font-extrabold text-brand-terra mb-4">Rp 899.999</div>
-                    <ul class="space-y-3 text-sm text-gray-600 mb-4 flex-1">
-                        <li><span class="text-green-600 font-bold">✔</span> 20x pertemuan</li>
+                    <div class="text-3xl font-extrabold text-brand-terra mb-1">599K</div>                <ul class="space-y-3 text-sm text-gray-600 mb-4 flex-1">                       <li><span class="text-green-600 font-bold">✔</span> 20x pertemuan</li>
                         <li><span class="text-green-600 font-bold">✔</span> 10-15 orang</li>
                         <li><span class="text-green-600 font-bold">✔</span> 90 menit/pertemuan</li>
                         <li><span class="text-green-600 font-bold">✔</span> Jadwal kelas ditentukan bersama</li>
@@ -58,9 +54,7 @@
                         <span class="px-3 py-1 bg-brand-red text-white inline-block rounded-full">Private
                         </span>
                     </h3>
-                    <div class="text-3xl font-extrabold text-brand-red mb-1">Rp 1.099.999</div>
-                    <div class="text-l font-extrabold text-brand-red mb-1">s/d</div>
-                    <div class="text-3xl font-extrabold text-brand-red mb-4">Rp 1.399.000</div>
+                    <div class="text-3xl font-extrabold text-brand-red mb-1">1.099K</div>
                     <ul class="space-y-3 text-sm text-gray-600 mb-4 flex-1">
                         <li><span class="text-green-600 font-bold">✔</span> 20x Pertemuan</li>
                         <li><span class="text-green-600 font-bold">✔</span> 1 Orang</li>
@@ -81,7 +75,7 @@
                         <span class="px-3 py-1 bg-brand-orange text-white inline-block rounded-full">Full House
                         </span>
                     </h3>
-                    <div class="text-3xl font-extrabold text-brand-orange mb-4">Rp 2.499.999</div>
+                    <div class="text-3xl font-extrabold text-brand-orange mb-4">2.499K</div>
                     <ul class="space-y-3 text-sm text-gray-600 mb-4 flex-1">
                         <li><span class="text-green-600 font-bold">✔</span> 20x pertemuan</li>
                         <li><span class="text-green-600 font-bold">✔</span> Jadwal Fleksibel</li>
