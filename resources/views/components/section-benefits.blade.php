@@ -23,7 +23,7 @@
     }
 </style>
 
-<section id="benefit-section" class="relative py-20 overflow-hidden">
+<section id="benefits-section" class="relative py-20 overflow-hidden">
     <!-- Background gradasi dan glow -->
     <div class="absolute top-0 left-0 w-full h-full -z-20 bg-gradient-to-tr from-brand-orange/20 via-brand-red/20 to-brand-terra/10"></div>
     <div class="absolute -top-32 -left-32 w-96 h-96 bg-brand-orange/20 rounded-full blur-3xl -z-10"></div>
