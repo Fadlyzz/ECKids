@@ -1,39 +1,36 @@
-                             ENGLISH CAFE KIDS PROJECT
-                             ------------0------------
-
-Distributor ID:	Ubuntu
-Description:	Ubuntu 24.04.3 LTS
-Release:	24.04
-Codename:	noble 6.14.0-36-generic
-
-            .-/+oossssoo+/-.               fadlyzz@Mezowski 
-        `:+ssssssssssssssssss+:`           ---------------- 
-      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 24.04.3 LTS x86_64 
-    .ossssssssssssssssssdMMMNysssso.       Host: RedmiBook 15 
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 6.14.0-36-generic 
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 6 hours, 48 mins 
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 1990 (dpkg), 20 (snap) 
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.2.21 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1920x1080 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: GNOME 46.0 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   WM Theme: Adwaita 
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Yaru-magenta-dark [GTK2/3] 
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Icons: Yaru-magenta [GTK2/3] 
-  +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: gnome-terminal 
-   /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: 11th Gen Intel i3-1115G4 (4) @ 4.100GHz 
-    .ossssssssssssssssssdMMMNysssso.       GPU: Intel Tiger Lake-LP GT2 [UHD Graphics G4] 
-      -+sssssssssssssssssyyyssss+-         Memory: 5391MiB / 7726MiB 
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.                                       
-                                                                   
-PHP 8.5.0 (cli) (built: Nov 20 2025 19:17:11) (NTS)
-Copyright (c) The PHP Group
-Built by Debian
-Zend Engine v4.5.0, Copyright (c) Zend Technologies
-with Zend OPcache v8.5.0, Copyright (c), by Zend Technologies
-Composer version 2.9.2 2025-11-19 21:57:25
-PHP version 8.5.0 (/usr/bin/php8.5)
-Node Js v20.19.6
-Npm v10.8.2
-
+<h2 align="center">🔥 ENGLISH CAFE KIDS PROJECT 🔥</h2>
+<div style="background-color:#000; padding:18px; border-radius:12px; font-family:monospace;">
+<li><span style="color:#00FF00;">Distributor ID</span> : <span style="color:#FFFFFF;">Ubuntu</span><br>
+<li><span style="color:#00FF00;">Description</span>   : <span style="color:#FFFFFF;">Ubuntu 24.04.3 LTS</span><br>
+<li><span style="color:#00FF00;">Release</span>       : <span style="color:#FFFFFF;">24.04</span><br>
+<li><span style="color:#00FF00;">Codename</span>      : <span style="color:#FFFFFF;">noble 6.14.0-36-generic</span><br>
+<li><span style="color:#00FF00;">PHP</span>          : <span style="color:#FFFFFF;">8.5.0 (CLI) — Built by Debian</span><br>
+<li><span style="color:#00FF00;">Zend Engine</span>  : <span style="color:#FFFFFF;">v4.5.0 + OPcache v8.5.0</span><br>
+<li><span style="color:#00FF00;">Composer</span>     : <span style="color:#FFFFFF;">2.9.2</span><br>
+<li><span style="color:#00FF00;">NodeJS</span>       : <span style="color:#FFFFFF;">20.19.6</span><br>
+<li><span style="color:#00FF00;">NPM</span>          : <span style="color:#FFFFFF;">10.8.2</span><br>
+</div>
+<p align="center"><i style="color:#00FF00;">System Ready . . . Running project initialization . . . ✔</i></p>
+<p align="center">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
+<p align="center">
+  <a href="https://www.facebook.com/fadd.the.jobless">
+    <img src="https://img.shields.io/badge/Facebook-Fadly-00FF00?style=for-the-badge&logo=facebook&logoColor=black"/>
+  </a>
+  <a href="https://www.instagram.com/fadd.the.jobless">
+    <img src="https://img.shields.io/badge/Instagram-@fadd.the.jobless-00FF00?style=for-the-badge&logo=instagram&logoColor=black"/>
+  </a>
+  <a href="github.com/fadlyzz">
+    <img src="https://img.shields.io/badge/GitHub-fadlyzz-00FF00?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
